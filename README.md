@@ -1,5 +1,5 @@
 # 学习 Python 笔记
-![](https://github.com/adymilk/Python-demo/blob/master/screenshot/compare-game.png)
+![](https://github.com/adymilk/Python-demo/blob/master/screenshot/output.gif)
 
 
 - [hello python](https://github.com/adymilk/Python-demo/blob/master/hello-world.py)
