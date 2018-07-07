@@ -63,8 +63,9 @@ if ready == 'yes':
 				key_status = 1
 				print('\n\n游戏结束！')
 		else:
-			print('输入的数据不合法！请输入一个 0 —— 100 的整数')
+			print('输入的数据不合法！请输入一个',str(min),' ——',str(max), ' 的整数')
 else:
 	print('您没有输入yes,游戏已经结束！')
+
 
 
